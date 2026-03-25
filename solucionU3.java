@@ -4,25 +4,33 @@ public class solucionU3 {
 public static void main(String[] args); 
 Scanner scan = new Scaner.nextline(System.in);
 
-int opcion 
+int opcion; 
 int faturas = 0;
-int iva = .16;
+double iva = .16;
+int sumatotal = 0; 
+int i = 0;
 
     do opcion {
         System.out.print("ingresar las facturas del dia de hoy:" );
-        nextline(System.in);
+        scan.nextLine();
         System.out.print("impuesto de iva: ");
-        nextline(System.in);
-        System.out.print(cerrar turno);
-        nextline(System.in);
-    while (i=<1++) }
+        scan.nextLine();
+        System.out.print("cerrar");
+        scan.nextLine();
+    while (i<1++); }
 
-
-    for (i<1; i=0;i++){
+    for(i<1; i=0;i++) {
     system.out.print("numero de facturas:");
-    system 
+    
+
+    int suma = sumatotal + facturas ;
+    System.out.println("corte de caja: " + "ingreso total:" suma ) ; 
+¨}
+
+
 
 }
+
 
 
 
