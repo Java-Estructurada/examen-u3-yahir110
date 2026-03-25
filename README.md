@@ -13,6 +13,8 @@ Desarrolla una herramienta de consola que automatice la auditoría de ventas dia
 
 **Requerimientos del Sistema (Reglas de Negocio):**
 
+//for while dowhile
+
 1. **Panel Principal🎛️:** El programa debe arrancar mostrando un menú de opciones (1. Auditar Facturas, 2. Calculadora de Impuestos, 3. Cerrar Turno). Este panel debe garantizar que se muestre al menos una vez al abrir el programa y debe mantenerse activo, reapareciendo después de cada operación, hasta que el empleado seleccione la opción de "Cerrar Turno".
    
 2. **Módulo de Auditoría (Opción 1)🔍💰:** El sistema debe preguntar cuántas facturas se emitieron durante el día. Con base en ese número exacto, el programa solicitará de manera secuencial y estructurada el total cobrado en cada una de esas facturas, sumándolas en tiempo real para emitir el corte de caja total al terminar el conteo.
