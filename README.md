@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/WjLPoPKm)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=23277673)
 
 # 💻 Reto Integrador: Sistema de Auditoría para Tienda de Hardware
 
@@ -10,6 +12,8 @@ Una tienda local de tecnología necesita digitalizar el corte de caja de sus ven
 Desarrolla una herramienta de consola que automatice la auditoría de ventas diarias y cuente con una calculadora de impuestos integrada.
 
 **Requerimientos del Sistema (Reglas de Negocio):**
+
+//for while dowhile
 
 1. **Panel Principal🎛️:** El programa debe arrancar mostrando un menú de opciones (1. Auditar Facturas, 2. Calculadora de Impuestos, 3. Cerrar Turno). Este panel debe garantizar que se muestre al menos una vez al abrir el programa y debe mantenerse activo, reapareciendo después de cada operación, hasta que el empleado seleccione la opción de "Cerrar Turno".
    
